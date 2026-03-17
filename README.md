@@ -1,0 +1,1 @@
+Proyecto que voy a realizar sobre una tienda.
